@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/inspiracoes/static/css/main.281e955e.chunk.css",
+    "main.js": "/inspiracoes/static/js/main.79f9da51.chunk.js",
+    "main.js.map": "/inspiracoes/static/js/main.79f9da51.chunk.js.map",
+    "runtime-main.js": "/inspiracoes/static/js/runtime-main.c96244b1.js",
+    "runtime-main.js.map": "/inspiracoes/static/js/runtime-main.c96244b1.js.map",
+    "static/js/2.75fb8072.chunk.js": "/inspiracoes/static/js/2.75fb8072.chunk.js",
+    "static/js/2.75fb8072.chunk.js.map": "/inspiracoes/static/js/2.75fb8072.chunk.js.map",
+    "index.html": "/inspiracoes/index.html",
+    "precache-manifest.24d93fce22d1c150daa201551a39e341.js": "/inspiracoes/precache-manifest.24d93fce22d1c150daa201551a39e341.js",
+    "service-worker.js": "/inspiracoes/service-worker.js",
+    "static/css/main.281e955e.chunk.css.map": "/inspiracoes/static/css/main.281e955e.chunk.css.map",
+    "static/js/2.75fb8072.chunk.js.LICENSE.txt": "/inspiracoes/static/js/2.75fb8072.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/inspiracoes/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/inspiracoes/static/media/sunset.1e6ef912.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96244b1.js",
+    "static/js/2.75fb8072.chunk.js",
+    "static/css/main.281e955e.chunk.css",
+    "static/js/main.79f9da51.chunk.js"
+  ]
+}
